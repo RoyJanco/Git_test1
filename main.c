@@ -1,5 +1,5 @@
 #include <stdio.h>
 void main()
 {
-	printf("Edited this line\n");
+	printf("This is my first test with Github\n");
 }
